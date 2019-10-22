@@ -1,2 +1,2 @@
 # ML
-ML data, all the cvs, and the textbook
+ML data, all the csv, and the textbook
