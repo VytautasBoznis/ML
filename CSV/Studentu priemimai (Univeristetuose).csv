@@ -1,81 +1,81 @@
-METAI,PAVADINIMAS,VF_SK,VNF_SK
-2015,Aleksandro Stulginskio universitetas,262,448
-2015,Balstogės universiteto filialas Vilniuje,0,10
-2015,Europos humanitarinis universitetas,0,6
-2015,Generolo Jono Žemaičio Lietuvos karo akademija,63,0
-2015,ISM Vadybos ir ekonomikos universitetas,64,132
-2015,Kauno technologijos universitetas,1 462,438
-2015,Kazimiero Simonavičiaus universitetas,3,53
-2015,Klaipėdos universitetas,203,449
-2015,LCC tarptautinis universitetas,4,0
-2015,Lietuvos edukologijos universitetas,291,265
-2015,Lietuvos muzikos ir teatro akademija,150,24
-2015,Lietuvos sporto universitetas,102,378
-2015,Lietuvos sveikatos mokslų universitetas,453,662
-2015,Mykolo Romerio universitetas,198,1194
-2015,Šiaulių universitetas,112,135
-2015,Vilniaus dailės akademija,241,61
-2015,Vilniaus Gedimino technikos universitetas,1 199,741
-2015,Vilniaus universitetas,2443,1 147
-2015,Vilniaus universiteto Tarptautinio verslo mokykla,2,37
-2015,Vytauto Didžiojo universitetas,524,720
-2016,Aleksandro Stulginskio universitetas,243,313
-2016,Balstogės universiteto filialas Vilniuje,0,18
-2016,Europos humanitarinis universitetas,0,9
-2016,Generolo Jono Žemaičio Lietuvos karo akademija,53,0
-2016,ISM Vadybos ir ekonomikos universitetas,107,101
-2016,Kauno technologijos universitetas,1 546,407
-2016,Kazimiero Simonavičiaus universitetas,2,37
-2016,Klaipėdos universitetas,189,377
-2016,LCC tarptautinis universitetas,8,0
-2016,Lietuvos edukologijos universitetas,227,250
-2016,Lietuvos muzikos ir teatro akademija,136,37
-2016,Lietuvos sporto universitetas,88,299
-2016,Lietuvos sveikatos mokslų universitetas,413,679
-2016,Mykolo Romerio universitetas,174,663
-2016,Šiaulių universitetas,111,106
-2016,Vilniaus dailės akademija,233,67
-2016,Vilniaus Gedimino technikos universitetas,1 309,625
-2016,Vilniaus universitetas,2 363,1 010
-2016,Vilniaus universiteto Tarptautinio verslo mokykla,–,–
-2016,Vytauto Didžiojo universitetas,512,582
-2017,Aleksandro Stulginskio universitetas,0,80
-2017,Balstogės universiteto filialas Vilniuje,0,23
-2017,Europos humanitarinis universitetas,0,–
-2017,Generolo Jono Žemaičio Lietuvos karo akademija,0,0
-2017,ISM Vadybos ir ekonomikos universitetas,0,100
-2017,Kauno technologijos universitetas,0,316
-2017,Kazimiero Simonavičiaus universitetas,0,9
-2017,Klaipėdos universitetas,0,168
-2017,LCC tarptautinis universitetas,0,0
-2017,Lietuvos edukologijos universitetas,0,124
-2017,Lietuvos muzikos ir teatro akademija,0,25
-2017,Lietuvos sporto universitetas,#REF!,241
-2017,Lietuvos sveikatos mokslų universitetas,0,615
-2017,Mykolo Romerio universitetas,0,301
-2017,Šiaulių universitetas,0,46
-2017,Vilniaus dailės akademija,0,63
-2017,Vilniaus Gedimino technikos universitetas,0,373
-2017,Vilniaus universitetas,0,900
-2017,Vilniaus universiteto Tarptautinio verslo mokykla,,
-2017,Vytauto Didžiojo universitetas,0,407
-2018,Aleksandro Stulginskio universitetas,93,67
-2018,Balstogės universiteto filialas Vilniuje,0,32
-2018,Europos humanitarinis universitetas,0,1
-2018,Generolo Jono Žemaičio Lietuvos karo akademija,52,0
-2018,ISM Vadybos ir ekonomikos universitetas,123,58
-2018,Kauno technologijos universitetas,1 332,195
-2018,Kazimiero Simonavičiaus universitetas,0,5
-2018,Klaipėdos universitetas,133,145
-2018,LCC tarptautinis universitetas,6,0
-2018,Lietuvos edukologijos universitetas,–,–
-2018,Lietuvos muzikos ir teatro akademija,127,25
-2018,Lietuvos sporto universitetas,71,275
-2018,Lietuvos sveikatos mokslų universitetas,482,493
-2018,Mykolo Romerio universitetas,92,450
-2018,Šiaulių universitetas,40,79
-2018,Vilniaus dailės akademija,234,82
-2018,Vilniaus Gedimino technikos universitetas,1 098,265
-2018,Vilniaus universitetas,2 696,1 058
-2018,Vilniaus universiteto Tarptautinio verslo mokykla,,
-2018,Vytauto Didžiojo universitetas,545,446
+METAI;PAVADINIMAS;VF_SK;VNF_SK
+2015;Aleksandro Stulginskio universitetas;262;448
+2015;Balstogės universiteto filialas Vilniuje;0;10
+2015;Europos humanitarinis universitetas;0;6
+2015;Generolo Jono Žemaičio Lietuvos karo akademija;63;0
+2015;ISM Vadybos ir ekonomikos universitetas;64;132
+2015;Kauno technologijos universitetas;1 462;438
+2015;Kazimiero Simonavičiaus universitetas;3;53
+2015;Klaipėdos universitetas;203;449
+2015;LCC tarptautinis universitetas;4;0
+2015;Lietuvos edukologijos universitetas;291;265
+2015;Lietuvos muzikos ir teatro akademija;150;24
+2015;Lietuvos sporto universitetas;102;378
+2015;Lietuvos sveikatos mokslų universitetas;453;662
+2015;Mykolo Romerio universitetas;198;1194
+2015;Šiaulių universitetas;112;135
+2015;Vilniaus dailės akademija;241;61
+2015;Vilniaus Gedimino technikos universitetas;1 199;741
+2015;Vilniaus universitetas;2443;1 147
+2015;Vilniaus universiteto Tarptautinio verslo mokykla;2;37
+2015;Vytauto Didžiojo universitetas;524;720
+2016;Aleksandro Stulginskio universitetas;243;313
+2016;Balstogės universiteto filialas Vilniuje;0;18
+2016;Europos humanitarinis universitetas;0;9
+2016;Generolo Jono Žemaičio Lietuvos karo akademija;53;0
+2016;ISM Vadybos ir ekonomikos universitetas;107;101
+2016;Kauno technologijos universitetas;1 546;407
+2016;Kazimiero Simonavičiaus universitetas;2;37
+2016;Klaipėdos universitetas;189;377
+2016;LCC tarptautinis universitetas;8;0
+2016;Lietuvos edukologijos universitetas;227;250
+2016;Lietuvos muzikos ir teatro akademija;136;37
+2016;Lietuvos sporto universitetas;88;299
+2016;Lietuvos sveikatos mokslų universitetas;413;679
+2016;Mykolo Romerio universitetas;174;663
+2016;Šiaulių universitetas;111;106
+2016;Vilniaus dailės akademija;233;67
+2016;Vilniaus Gedimino technikos universitetas;1 309;625
+2016;Vilniaus universitetas;2 363;1 010
+2016;Vilniaus universiteto Tarptautinio verslo mokykla;–;–
+2016;Vytauto Didžiojo universitetas;512;582
+2017;Aleksandro Stulginskio universitetas;0;80
+2017;Balstogės universiteto filialas Vilniuje;0;23
+2017;Europos humanitarinis universitetas;0;–
+2017;Generolo Jono Žemaičio Lietuvos karo akademija;0;0
+2017;ISM Vadybos ir ekonomikos universitetas;0;100
+2017;Kauno technologijos universitetas;0;316
+2017;Kazimiero Simonavičiaus universitetas;0;9
+2017;Klaipėdos universitetas;0;168
+2017;LCC tarptautinis universitetas;0;0
+2017;Lietuvos edukologijos universitetas;0;124
+2017;Lietuvos muzikos ir teatro akademija;0;25
+2017;Lietuvos sporto universitetas;#REF!;241
+2017;Lietuvos sveikatos mokslų universitetas;0;615
+2017;Mykolo Romerio universitetas;0;301
+2017;Šiaulių universitetas;0;46
+2017;Vilniaus dailės akademija;0;63
+2017;Vilniaus Gedimino technikos universitetas;0;373
+2017;Vilniaus universitetas;0;900
+2017;Vilniaus universiteto Tarptautinio verslo mokykla;;
+2017;Vytauto Didžiojo universitetas;0;407
+2018;Aleksandro Stulginskio universitetas;93;67
+2018;Balstogės universiteto filialas Vilniuje;0;32
+2018;Europos humanitarinis universitetas;0;1
+2018;Generolo Jono Žemaičio Lietuvos karo akademija;52;0
+2018;ISM Vadybos ir ekonomikos universitetas;123;58
+2018;Kauno technologijos universitetas;1 332;195
+2018;Kazimiero Simonavičiaus universitetas;0;5
+2018;Klaipėdos universitetas;133;145
+2018;LCC tarptautinis universitetas;6;0
+2018;Lietuvos edukologijos universitetas;–;–
+2018;Lietuvos muzikos ir teatro akademija;127;25
+2018;Lietuvos sporto universitetas;71;275
+2018;Lietuvos sveikatos mokslų universitetas;482;493
+2018;Mykolo Romerio universitetas;92;450
+2018;Šiaulių universitetas;40;79
+2018;Vilniaus dailės akademija;234;82
+2018;Vilniaus Gedimino technikos universitetas;1 098;265
+2018;Vilniaus universitetas;2 696;1 058
+2018;Vilniaus universiteto Tarptautinio verslo mokykla;;
+2018;Vytauto Didžiojo universitetas;545;446
